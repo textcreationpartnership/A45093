@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble remonstrance to the King &amp; Parliament in the behalf of many decayed and decaying citizens and families of London, occasioned solely by the dreadful fire of that city and some concurring calamitous events of providence since. Per Philanthropus Philagathus.</title>
+            <author>Philagathus, Philanthropus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45093</idno>
+            <idno type="STC">Wing H3625A</idno>
+            <idno type="STC">ESTC R221339</idno>
+            <idno type="EEBO-CITATION">99832664</idno>
+            <idno type="PROQUEST">99832664</idno>
+            <idno type="VID">37138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2148:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble remonstrance to the King &amp; Parliament in the behalf of many decayed and decaying citizens and families of London, occasioned solely by the dreadful fire of that city and some concurring calamitous events of providence since. Per Philanthropus Philagathus.</title>
+                  <author>Philagathus, Philanthropus.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages stained; print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37138:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>AN HUMBLE REMONSTRANCE TO THE KING &amp; PARLIAMENT In the Behalf of Many Decayed and Decaying CITIZENS and FAMILIES of <hi>London,</hi> Occaſioned ſolely by the Dreadful Fire of That CITY, AND Some concurring Calamitous Events of Providence ſince.</p>
+            <q>
+               <bibl>JOB 19.21.</bibl>
+               <p>Have Pity upon me, have Pity upon me, O ye my Friends; for the Hand of God hath touched me.</p>
+            </q>
+            <p>Per <hi>PHILANTHROPUS PHILAGATHUS.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> 1675.</p>
+            <pb facs="tcp:37138:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:37138:2"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37138:3"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="1" facs="tcp:37138:3"/>
+            <!-- PDF PAGE 69 -->
+            <head>AN HUMBLE Remonſtrance TO THE KING and PARLIAMENT.</head>
+            <opener>
+               <salute>May it pleaſe your Majestie, And the Right Honourable the Lords and Commons aſſembled in Parliament.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N hopes there may be ſome Analo<g ref="char:EOLhyphen"/>gie in the ſympathie of the Politick, as in that of the Natural body: I have adventured to repreſent unto Your grave Wiſdom's conſideration, the languiſhing Condition of thoſe many Souls, that ſtill labour and groan under the Mortifying effects of that diſmal Fire of <hi>London,</hi> ſeconded with a War ſince; to the aggravation of their Loſſes, and depreſſion of their
+<pb n="2" facs="tcp:37138:4"/>
+               <!-- PDF PAGE 70 -->endeavours for recovery; who being (as it were) Diſmembred, are rendred uſeleſs to the Nation, but might be yet very ſerviceable in their Generation, were ſome charitable thoughts contrived and exerciſed towards them. And ſeeing they are numerous who have thus ſuffered, many of whom have known how to abound, being reduced now to the other extreme of Want, ſeem Adequated for an higher Aſpect than that of particular Charitie, an are therefore more Adapt Objects for the Influences of the Head. The bleſſing of Almighty God having hitherto concurr'd with your Counſels for the Eſtabliſhment and Proſperi<g ref="char:EOLhyphen"/>ty of the Crown, and procuring Peace to the Nation (as at this time) I doubt not but your. Wiſdomes will conceive it an Act of Gratitude unto the ſame Almighty bounty, if you ſhall take thought of his diſtreſſed: the ſooner compaſſion may move you in this reſpect, may be the more acceptable Offering to Heaven, that chuſeth to do good, when moſt wan<g ref="char:EOLhyphen"/>ted: For that this alſo exceedeth the nature of a private concern, and may conduce to repleniſh that depopulated City with its own Members. Neither will the number of theſe Objects, and the meaſure of their ſupply, make the Work ſeem inſuperable to ſo great and grave a Council, who have al<g ref="char:EOLhyphen"/>ready done ſuch Wonders, for the re-compoſing of Loyalty.</p>
+            <p>It is very lamentable to conſider how many of our Fellow-Members of the Nation and City have ſunk with their Loſſes into deſpair of Reſtoration; and have with their meanneſs of being, loſt even Life it ſelf;
+<pb n="3" facs="tcp:37138:4"/>
+               <!-- PDF PAGE 70 -->whilſt others, weltring themſelves in Pleaſures, and prodigalizing their Superfluities with greater hazard, might, to their perpetual Renown, apply a part there<g ref="char:EOLhyphen"/>of towards the Reſurrection of their Brethren. Thoſe yet remaining, will be the more eaſily aſſiſted, who poſſibly may be reſerved for ſome eminent Service to their Country: For they are not contemptible, be<g ref="char:EOLhyphen"/>cauſe Diſciplined under Affliction: the beſt men ha<g ref="char:EOLhyphen"/>ving been Educated and made ſuch, in the School of Adverſity.</p>
+            <p>Moſt Worthy Senators, I need not have recourſe to Apocryphal Chronologies for Heroick Examples of this ſort: there being enough in Sacred Hiſtory of infallible Authority, attended with a multitude of incitements, for the encouragement of ſuch Pious Acts. A frequent Preſident hereof we may finde a<g ref="char:EOLhyphen"/>mongſt our ſelves, namely, when His Majeſty is gra<g ref="char:EOLhyphen"/>tiouſly pleaſed to Grant Briefs upon particular Com<g ref="char:EOLhyphen"/>miſerable Accidents. The ſame Grace which moves that, is more loudly call'd upon, and with more for<g ref="char:EOLhyphen"/>cible Arguments, in a Common Calamity. The grea<g ref="char:EOLhyphen"/>ter the Relief is which is required, the more Praiſe<g ref="char:EOLhyphen"/>worthy and acceptable in the ſight of God and good Men, when afforded. Thoſe who have been woun<g ref="char:EOLhyphen"/>ded under a common Judgement, are therefore no more deſpicable, than a vanquiſhed Forlorn-Hope of a Battle, who have withſtood the ſhock intended the main Body; and if the Divine Wrath hath been ſuſ<g ref="char:EOLhyphen"/>pended by the ſufferings of ſome, for trial of he Ver<g ref="char:EOLhyphen"/>tues of thoſe who have eſcaped, perhaps as great Sin<g ref="char:EOLhyphen"/>ners (as the others) their Condition is worthy of
+<pb n="4" facs="tcp:37138:5"/>
+               <!-- PDF PAGE 71 -->the more pity and ſupply; and is not unlike that Ju<g ref="char:EOLhyphen"/>ſtice uſed among Merchants, when in a Storm at Sea, one or more joynt Adventurer's Goods are thrown over-board, or otherwiſe damnified, to ſave the whole, they reduce that to an <hi>Avarage;</hi> whereby the Loſs is made tolerable, which might otherwiſe prove ruinous. The Veſſel of this Nation, hath for ſome years been conflicting and labouring under diſmal and heavy Judgements, as the <hi>Plague, Fire,</hi> and <hi>Sword,</hi> &amp;c. and now at laſt ſhe is arrived (through Divine Bleſſing upon your prudent Coun<g ref="char:EOLhyphen"/>ſels) into an Harbour of Peace, it is hoped you will now have opportunitie both to conſider and re<g ref="char:EOLhyphen"/>pair the Breaches that have been made upon her in theſe Tempeſts.</p>
+            <p>Moſt Noble Heroes, I dare not preſcribe to ſo great a Magazine of Wiſdom that inhabits you, waies and Methods, for the raiſing and proportionating ſuch Relief, as the Neceſſities of thoſe miſerably-ſindged Citizens calls for: not in the leaſt doubting, but if you ſhall pleaſe to look that way, the work will be eaſily effected; and the God of Mercies invoked and inclined to reward it. The viciſſitudes of Pro<g ref="char:EOLhyphen"/>vidence our eyes have witneſſed, doth ſufficiently certifie the mutability of Humane enjoyments; and ſhould diſpoſe us to conſider, others misfortunes may be ours; and how welcome in the like condition, a generous aſſiſtance would be to us, ſuch a ſympathie doth excite to do accordingly. The aforeſaid Suf<g ref="char:EOLhyphen"/>ferers are, in another reſpect, worthy Objects of your help and interpoſition, for the ſtopping of the mer<g ref="char:EOLhyphen"/>cileſs
+<pb n="5" facs="tcp:37138:5"/>
+               <!-- PDF PAGE 71 -->fury of their Creditors upon them; whereof the Priſons about <hi>London</hi> are ſevere Teſtimonies; as if they had been Men markt out by Divine Ven<g ref="char:EOLhyphen"/>geance, meerly to become a Prey to their inſa<g ref="char:EOLhyphen"/>tiate Covetouſneſs, or a Sacrifice to their Cruel<g ref="char:EOLhyphen"/>ty; and this countenanced by the Law, becauſe of Debt, without any reflection upon the inevi<g ref="char:EOLhyphen"/>table Hand of God that diſabled them. Could your Eyes be in every corner of this Nation, to behold the particular Oppreſſions of this nature, by one man to another, it would move your Bow<g ref="char:EOLhyphen"/>els to contrive a remedy, that might waſh off the reproach contracted upon our Chriſtian profeſſion for want of it. As works of Charitie and Mercy have the preference, and ſhould be firſt eſpouſed, ſo that your Wiſdomes in a compaſſionate minde, will take into conſideration the Sufferings of theſe Forlorn men, and thereupon ſelect a Committee to inſpect the quality of their Loſſes by the Fire and Contingencies, and of their preſent Griefs and Cauſes; without peradventure you will finde their Relief not difficult, if you ſhall pleaſe to recom<g ref="char:EOLhyphen"/>mend it to the Nation, either by way of a Vo<g ref="char:EOLhyphen"/>luntarie Contribution, or one or two Months Tax, according to the Exigency of the Work. It can onely thrive in your Hands; you may be a means to recover ſome Languiſhing Souls as well as Bodies; and the recompence of ſuch works is unutterable. Some more worthy Pen may put you in minde of other matters fit for your enquiry, as the re-view of ſome Laws made a long time ſince; the reaſon whereof (circumſtances of Time,
+<pb n="6" facs="tcp:37138:6"/>
+               <!-- PDF PAGE 72 -->Trade and Temper conſidered) will not reach to our daies; as the Statute of Bankrupts, <hi>&amp;c.</hi> not to omit the exorbitancy of ſome practiſes at Law, under which the Nation groans.</p>
+            <p>Moſt Worthy Patriots, I have with what brevity the Subject would diſpenſe, caſt my Offering at your Feet, hoping it may meet with <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Acceptation and Succeſs, as may redound to you<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mortal Glory and Happineſs.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37138:6"/>
+            <!-- PDF PAGE 72 -->
+         </div>
+      </body>
+   </text>
+</TEI>
